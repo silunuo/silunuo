@@ -1,11 +1,9 @@
-# 👋 你好，我是 [silunuo]!
+# 👋 你好，欢迎来到我的GITHUB!
 
-[![GitHub 粉丝](https://img.shields.io/github/followers/silunuo?style=social)](https://github.com/silunuo)
-<!-- [![个人网站](https://img.shields.io/badge/网站-你的网站地址-blue?style=flat-square&logo=google-chrome)](https://你的网站地址) -->
 [![电子邮箱](https://img.shields.io/badge/联系我-邮箱-red?style=flat-square&logo=gmail)](mailto:已废弃)
 
 > [出生得太晚无法探索地球，出生得太早无法探索宇宙，出生得刚刚好可以每天GO]
-
+> 
 ---
 
 ## 🛠 技术栈与工具
