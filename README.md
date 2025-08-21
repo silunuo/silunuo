@@ -1,6 +1,5 @@
 # 👋 你好，我是 [silunuo]!
 
-[![GitHub 粉丝](https://img.shields.io/github/followers/silunuo?style=social)](https://github.com/silunuo)
 <!-- [![个人网站](https://img.shields.io/badge/网站-你的网站地址-blue?style=flat-square&logo=google-chrome)](https://你的网站地址) -->
 [![电子邮箱](https://img.shields.io/badge/联系我-邮箱-red?style=flat-square&logo=gmail)](mailto:已废弃)
 
