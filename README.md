@@ -1,4 +1,4 @@
-# 👋 你好，我是 [你的名字]!
+# 👋 你好，我是 [silunuo]!
 
 [![GitHub 粉丝](https://img.shields.io/github/followers/silunuo?style=social)](https://github.com/silunuo)
 <!-- [![个人网站](https://img.shields.io/badge/网站-你的网站地址-blue?style=flat-square&logo=google-chrome)](https://你的网站地址) -->
@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 前端开发
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,18 +27,33 @@
 ### 后端开发
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 数据库
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 开发工具
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 🎨 美术技能
+
+### 设计工具
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 技能领域
+- **2D美术**：角色设计、界面设计、像素艺术
+- **3D建模**：低多边形建模、纹理制作
+- **技术美术**：着色器编写、视觉效果实现
+- **UI/UX设计**：用户界面设计、用户体验优化
 
 ---
 
@@ -51,7 +66,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silunuo&theme=radical)
 
 ---
-
+<!-- 
 ## 🌟 精选项目
 
 ### [项目名称](项目链接)
@@ -67,7 +82,7 @@
 ### [项目名称](项目链接)
 > 项目简短描述
 ![Stars](https://img.shields.io/github/stars/silunuo/项目名称?style=flat-square)
-![Forks](https://img.shields.io/github/forks/silunuo/项目名称?style=flat-square)
+![Forks](https://img.shields.io/github/forks/silunuo/项目名称?style=flat-square) -->
 
 <!-- ---
 
