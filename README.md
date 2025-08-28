@@ -1,5 +1,17 @@
 # 👋 全都不想学!
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ave-Mujica-8b0000?style=for-the-badge&logo=bandlab" alt="Ave Mujica"/>
+</p>
+<h2 align="center">
+  <em>"将过往与真容都以假面遮掩，今夜亦降临于完美的箱庭。"</em>
+</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/秘密-人偶-8b0000?style=flat-square" alt="神秘暗黑"/>
+  <img src="https://img.shields.io/badge/假面-舞会-800?style=flat-square" alt="哥特优雅"/>
+  <img src="https://img.shields.io/badge/音乐-戏剧-a00?style=flat-square" alt="音乐戏剧"/>
+</p>
+
 ![image](./resource/sakisaki/1.gif) ![image](./resource/sakisaki/2.gif) ![image](./resource/sakisaki/3.gif) ![image](./resource/sakisaki/4.gif) ![image](./resource/sakisaki/5.gif)
 
 ---
