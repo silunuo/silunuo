@@ -1,6 +1,6 @@
 # 👋 全都不想学!
 
-<p align="center">
+<p align="center" href="https://silunuo.github.io">
   <img src="https://img.shields.io/badge/Ave-Mujica-8b0000?style=for-the-badge&logo=bandlab" alt="Ave Mujica"/>
 </p>
 <h2 align="center">
