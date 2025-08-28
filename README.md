@@ -75,9 +75,11 @@
 ![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=silunuo&layout=compact&theme=radical)
 
 ---
+<body>
 <audio id="pain" autoplay="autoplay" loop="loop" style="display:none">
     <source src="./resource/天球のMúsica.mp3" type="audio/mpeg" />
 </audio>
+</body>
 ⭐️ 来自 [silunuo](https://github.com/silunuo) 
 
 [![电子邮箱](https://img.shields.io/badge/联系我-邮箱-red?style=flat-square&logo=gmail)](mailto:已废弃)
