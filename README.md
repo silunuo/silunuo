@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ave-Mujica-8b0000?style=for-the-badge&logo=bandlab" alt="Ave Mujica"/>
 </p>
-<h2 align="center" href="https://silunuo.github.io">
+<h2 align="center">
   <em>"将过往与真容都以假面遮掩，今夜亦降临于完美的箱庭。"</em>
 </h2>
 <p align="center">
