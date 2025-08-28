@@ -1,9 +1,9 @@
-# 👋 你好，欢迎来到我的GITHUB!
+# 👋 全都不想学!
+将过往与真容都以假面遮掩，今夜亦降临于完美的箱庭。
+![image](./resource/sakisaki/1.gif) ![image](./resource/sakisaki/2.gif) ![image](./resource/sakisaki/3.gif) ![image](./resource/sakisaki/4.gif) ![image](./resource/sakisaki/5.gif)
 
-<!-- [![个人网站](https://img.shields.io/badge/网站-你的网站地址-blue?style=flat-square&logo=google-chrome)](https://你的网站地址) -->
-[![电子邮箱](https://img.shields.io/badge/联系我-邮箱-red?style=flat-square&logo=gmail)](mailto:已废弃)
-
-> [出生得太晚无法探索地球，出生得太早无法探索宇宙，出生得刚刚好可以每天GO]
+---
+> 出生得太晚无法探索地球，出生得太早无法探索宇宙，出生得刚刚好可以每天GO
 > 
 ---
 
@@ -62,44 +62,10 @@
 
 ![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=silunuo&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silunuo&theme=radical)
-
 ---
-<!-- 
-## 🌟 精选项目
+<audio id="pain" autoplay="autoplay" loop="loop" style="display:none">
+    <source src="./resource/天球のMúsica.mp3" type="audio/mpeg" />
+</audio>
+⭐️ 来自 [silunuo](https://github.com/silunuo) 
 
-### [项目名称](项目链接)
-> 项目简短描述
-![Stars](https://img.shields.io/github/stars/silunuo/项目名称?style=flat-square)
-![Forks](https://img.shields.io/github/forks/silunuo/项目名称?style=flat-square)
-
-### [项目名称](项目链接)
-> 项目简短描述
-![Stars](https://img.shields.io/github/stars/silunuo/项目名称?style=flat-square)
-![Forks](https://img.shields.io/github/forks/silunuo/项目名称?style=flat-square)
-
-### [项目名称](项目链接)
-> 项目简短描述
-![Stars](https://img.shields.io/github/stars/silunuo/项目名称?style=flat-square)
-![Forks](https://img.shields.io/github/forks/silunuo/项目名称?style=flat-square) -->
-
-<!-- ---
-
-## 📝 最新博客文章
- 如果你有博客，可以使用RSS自动生成 
-- [文章标题1](文章链接1) - 发布日期
-- [文章标题2](文章链接2) - 发布日期
-- [文章标题3](文章链接3) - 发布日期
-
---- -->
-<!-- 
-## 🤝 与我联系
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn链接)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](你的Twitter链接)
-[![知乎](https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](你的知乎链接)
-[![个人博客](https://img.shields.io/badge/个人博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](你的博客链接)
-
---- -->
-
-⭐️ 来自 [silunuo](https://github.com/silunuo)
+[![电子邮箱](https://img.shields.io/badge/联系我-邮箱-red?style=flat-square&logo=gmail)](mailto:已废弃)
