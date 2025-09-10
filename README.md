@@ -101,6 +101,7 @@
 <div align="center" style="margin: 30px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Mujica x Arknight 联动现已震撼上线;さあ始めましょう、今宵のマスカレード!" alt="动态介绍" />
 </div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Mujica x Arknight 联动现已震撼上线;さあ始めましょう、今宵のマスカレード!")](https://git.io/typing-svg)
 
 ---
 ⭐️ 前往👇 👇 👇
