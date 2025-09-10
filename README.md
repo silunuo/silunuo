@@ -75,6 +75,36 @@
 ![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=silunuo&layout=compact&theme=radical)
 
 ---
+<div align="center" style="margin: 40px 0;">
+  <h3>✨✨✨✨✨</h3>
+</div>
+<div align="center" style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=—————————————————————————;—————————————————————————" alt="Typing SVG" />
+</div>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.bilibili.com/video/BV1pMamzNEHZ/" target="_blank">
+  <img src="./resource/title/sakiko.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #8b0000; margin: 0 5px; box-shadow: 0 0 10px rgba(139, 0, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(139, 0, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(139, 0, 0, 0.5)';">
+  </a>
+  <a href="https://www.bilibili.com/video/BV1ZEamztEoe/" target="_blank">
+  <img src="./resource/title/umiri.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #8b0000; margin: 0 5px; box-shadow: 0 0 10px rgba(139, 0, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(139, 0, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(139, 0, 0, 0.5)';">
+  </a>
+  <a href="https://www.bilibili.com/video/BV1toa2zkEmP/" target="_blank">
+  <img src="./resource/title/hatsune.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #8b0000; margin: 0 5px; box-shadow: 0 0 10px rgba(139, 0, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(139, 0, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(139, 0, 0, 0.5)';">
+  </a>
+  <a href="https://www.bilibili.com/video/BV1n3amzAE98/" target="_blank">
+  <img src="./resource/title/nyamu.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #8b0000; margin: 0 5px; box-shadow: 0 0 10px rgba(139, 0, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(139, 0, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(139, 0, 0, 0.5)';">
+  </a>
+  <a href="https://www.bilibili.com/video/BV1EjamzfEJr/" target="_blank">
+  <img src="./resource/title/mutsumi.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #8b0000; margin: 0 5px; box-shadow: 0 0 10px rgba(139, 0, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(139, 0, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(139, 0, 0, 0.5)';">
+  </a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <p style="color: #8b0000; font-style: italic;">Ave Mujica</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=8B0000&center=true&vCenter=true&width=435&lines=—————————————————————————;—————————————————————————" alt="Typing SVG" />
+</div>
+
+---
 ⭐️ 前往👇 👇 👇
 [![Enter Ave Mujica World](https://img.shields.io/badge/Ave_Mujica_World-8b0000?style=for-the-badge&logo=bandlab)](https://silunuo.github.io)
 [![电子邮箱](https://img.shields.io/badge/联系我-邮箱-red?style=flat-square&logo=gmail)](mailto:已废弃)
