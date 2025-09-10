@@ -78,6 +78,9 @@
 <div align="center" style="margin: 40px 0;">
   <h3>✨✨✨✨✨</h3>
 </div>
+<div align="center" style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=—————————————————————————;言ったでしょう？残りの人生、わたくしに下さいと" alt="动态介绍" />
+</div>
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.bilibili.com/video/BV1pMamzNEHZ/" target="_blank">
   <img src="./resource/title/sakiko.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #8b0000; margin: 0 5px; box-shadow: 0 0 10px rgba(139, 0, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(139, 0, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(139, 0, 0, 0.5)';">
@@ -94,6 +97,9 @@
   <a href="https://www.bilibili.com/video/BV1EjamzfEJr/" target="_blank">
   <img src="./resource/title/mutsumi.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #8b0000; margin: 0 5px; box-shadow: 0 0 10px rgba(139, 0, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(139, 0, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(139, 0, 0, 0.5)';">
   </a>
+</div>
+<div align="center" style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Mujica x Arknight 联动现已震撼上线;さあ始めましょう、今宵のマスカレード!" alt="动态介绍" />
 </div>
 
 ---
