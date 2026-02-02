@@ -69,9 +69,6 @@
 ---
 
 ## 📊 GitHub 统计数据
-
-![silunuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=silunuo&show_icons=true&theme=radical)
-
 ![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=silunuo&layout=compact&theme=radical)
 
 ---
