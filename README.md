@@ -69,7 +69,7 @@
 ---
 
 ## 📊 GitHub 统计数据
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=silunuo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 ---
 <div align="center" style="margin: 40px 0;">
