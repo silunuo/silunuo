@@ -68,12 +68,6 @@
 
 ---
 
-## 📊 GitHub 统计数据
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silunuo)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=silunuo&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=dracula&hide_border=false"/>
-
----
 <div align="center" style="margin: 40px 0;">
   <h3>✨✨✨✨✨</h3>
 </div>
