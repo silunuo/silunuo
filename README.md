@@ -49,6 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-100000?style=for-the-badge&logo=Godot&logoColor=white)
 
 ---
 
