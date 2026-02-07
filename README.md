@@ -54,6 +54,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silunuo" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 🎨 美术技能
 
 ### 设计工具
